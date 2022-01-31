@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ocontent{
+    padding-bottom: 35px;
+}
+.o-title{
+    font-family: sans-serif;
+    font-weight: lighter;
+    padding-bottom: 25px;
+}
+.rotp{
+    text-align: right;
+    padding-top: 25px;
+    font-family:sans-serif;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+.btn
+{
+    border-radius: 15px;
+    color: white;
+    background-image: linear-gradient(45deg,#52D1F9,#E563F8);
+    border: white;
+    padding-left:10px ;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    
+}
+.one{
+    display: flex;
+}
+.otpField{
+    width: 2px;
+}

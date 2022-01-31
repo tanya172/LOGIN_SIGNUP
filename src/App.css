@@ -1,3 +1,10 @@
+/* 
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
@@ -36,3 +43,12 @@
     transform: rotate(360deg);
   }
 }
+.input[type="submit"] {
+  margin-top: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #7a7290;
+  border: 1px solid #000000;
+  color: #fff;
+  padding: 10px 20px;
+} */
